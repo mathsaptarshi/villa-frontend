@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="63px" viewBox="0 0 40 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>noun_lightbulb_692691</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icons" transform="translate(-813.000000, -156.000000)" fill="#575962" stroke="#575962" stroke-width="2">
+            <g id="noun_lightbulb_692691" transform="translate(814.000000, 157.000000)">
+                <path d="M19.00152,0 L18.99848,0 C8.50744,0 0,8.81076129 0,19.6766323 C0,25.1115355 2.12572,30.0301032 5.56624,33.5917161 C8.23384,36.3575742 9.9256,39.7381548 10.67192,43.2903226 L27.33036,43.2903226 C28.07516,39.7373677 29.76692,36.3567871 32.43376,33.5917161 C35.87428,30.0301032 38,25.1115355 38,19.6766323 C38,8.81076129 29.49332,0 19.00152,0 Z M13.62756,25.2429806 L9.59652,29.4193161 C4.40268,24.0395097 4.40268,15.3176903 9.59652,9.93709677 L13.62756,14.1118581 C10.65824,17.1862581 10.659,22.1693677 13.62756,25.2429806 Z" id="Shape" fill-rule="nonzero"></path>
+                <path d="M12,49.1935484 L12.0000001,54.0139539 C11.9992276,57.8716276 15.5793338,61 20.0000001,61 C24.4168035,61 27.9992274,57.8716276 27.9992274,54.0139539 L27.9992274,49.1935484 L12,49.1935484 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

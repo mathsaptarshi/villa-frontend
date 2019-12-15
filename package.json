@@ -1,0 +1,55 @@
+{
+  "name": "rento-master-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bootstrap": "^4.4.1",
+    "chart.js": "^2.9.3",
+    "jquery": "^3.4.1",
+    "lodash": "^4.17.15",
+    "lodash-es": "^4.17.15",
+    "moment": "2.24.0",
+    "moment-range": "^4.0.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-facebook": "^8.1.4",
+    "react-facebook-login": "^4.1.1",
+    "react-google-login": "^5.0.7",
+    "react-images": "^1.0.0",
+    "react-photo-gallery": "^7.0.2",
+    "react-redux": "7.0.3",
+    "react-router-dom": "5.0.0",
+    "react-scripts": "3.0.1",
+    "react-spring": "^8.0.27",
+    "react-toastify": "^5.4.1",
+    "react-use-gesture": "^5.2.4",
+    "reactstrap": "^7.1.0",
+    "redux": "4.0.1",
+    "redux-form": "8.2.0",
+    "redux-logger": "3.0.6",
+    "redux-thunk": "2.3.0",
+    "sweetalert": "^2.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

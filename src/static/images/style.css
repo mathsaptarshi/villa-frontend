@@ -1,0 +1,180 @@
+body,html {
+    margin: 0;
+    padding:0;
+    background: #F5F5F5;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: grey;
+    border-radius: 4px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: grey;
+}
+
+.logo-font {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.container {
+    max-width: 1400px;
+}
+.btn-card{
+    float: right;
+
+}
+.my-container-mybookings{
+    border: 2px solid red;
+
+}
+.own-container {
+
+    height: 200px;
+    width: 70%;
+    background-color: white;
+    text-align: justify;
+    text-justify: inter-word;
+    border: 2px solid red;
+
+}
+.my-span-margin{
+    padding: 11px;
+    padding-left: 0px;
+}
+
+/*css for custom badge over image*/
+
+.item {
+    position:relative;
+    padding-top:20px;
+    display:inline-block;
+}
+.notify-badge{
+    position: absolute;
+    left:-5px;
+    top:-5px;
+    background:forestgreen;
+    text-align: center;
+    border-radius: 5px 5px;
+    color:white;
+    padding:5px 15px;
+    font-size:8px;
+}
+.no-booking-container-height{
+    height:250px;
+    border:1px solid #e0d6d6;
+
+}
+.no-booking-heading-margin{
+    margin-top: 100px;
+}
+.own-icon-make{
+    width:35px;
+    border-radius: 50%;
+
+}
+.my-circle{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+    background-color:white;
+}
+.my-circle-fixed{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: #e68a00;
+    border: white;
+}
+.my-circle-cover-page{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #ff9900;
+    text-align: center;
+    line-height: 38px;
+}
+.bg-color-white{
+    background-color: white;
+}
+.cover-page-div{
+    position: absolute;
+    top: 40%;
+    bottom: 50%;
+    left: 30%;
+    padding: 2px;
+    color: white;
+}
+.lighter-font-own{
+    /*font-weight: lighter;*/
+    font-size: 80px !important;
+}
+.date-picker-div{
+    border-radius: 5px;
+    padding:3px;
+    width: 70%;
+}
+
+.border-own{
+    border: 2px solid black !important;
+}
+.modal-size-view-details{
+    min-width: 100%;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0;
+}
+.modal-size-view-details-body{
+    height: 30rem;
+    padding: 3rem;
+}
+.collap-img-style{
+    width: 100px;
+    height: 70px;
+    float: right;
+    /*margin-right: 100px;*/
+}
+.hour-style{
+    position: absolute;
+    right: 0;
+    bottom: 0px;
+    top: 40px;
+    margin-right: 98px;
+}
+.date-pick-modal{
+    margin-top: -25px;
+    margin-left: 35px;
+}
+.btn-style{
+    background-color: #1919e3;
+    font-color: white;
+    color: white;
+    padding: 2px;
+    padding: 0.5rem;
+    border: white;
+}
+.heading-panel{
+    margin-left: 0px;
+    width: 100%;
+}
+.btn-style-filter{
+    width: 90%;
+    margin-left: 25px;
+}
+
